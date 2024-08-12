@@ -8,7 +8,7 @@ Link to the dashboard:
 
 ## Dashboard
 
-https://github.com/user-attachments/assets/f58e81ed-58aa-419c-9aa4-d74769528381
+[https://github.com/user-attachments/assets/f58e81ed-58aa-419c-9aa4-d74769528381](https://github.com/KaushalChawale/British-Airways-Analysis/issues/1#issue-2460346625)
 
 
 ## Dataset
