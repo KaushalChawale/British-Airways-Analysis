@@ -7,8 +7,9 @@ Link to the dashboard:
 
 
 ## Dashboard
+![British Airways Dashboard](https://github.com/user-attachments/assets/c30eb9c1-1adf-46bf-9fc9-4e44cf52e01e)
 
-![British Airways Dashboard](https://github.com/user-attachments/assets/f58e81ed-58aa-419c-9aa4-d74769528381)
+
 
 
 
