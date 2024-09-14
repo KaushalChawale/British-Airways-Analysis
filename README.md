@@ -3,7 +3,7 @@
 
 This project involves the creation of an interactive Tableau dashboard that analyzes the service ratings provided by customers for British Airways. The dataset includes various service aspects, such as cabin cleanliness, staff service, food quality, and overall experience.
 
-Link to the dashboard: 
+
 
 
 ## Dashboard
